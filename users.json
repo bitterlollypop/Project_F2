@@ -1,0 +1,15 @@
+[
+    {
+        "username": "ali_232",
+        "password": "a121323",
+        "email": "adam@gmail.com",
+        "cash": 250000,
+        "role": "customer"
+    },
+    {
+        "username": "admin_num1",
+        "password": "adminpass1",
+        "email": "oneofadmins@gmail.com",
+        "role": "admin"
+    }
+]

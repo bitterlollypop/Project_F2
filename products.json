@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "product_type": "Car",
+        "brand": "Toyota",
+        "model": "Corolla",
+        "price": 20000,
+        "year": 2023,
+        "specifications": {
+            "Engine": "1.8L I4",
+            "Transmission": "Automatic",
+            "Fuel Type": "Gasoline",
+            "Seats": 5
+        },
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "product_type": "Car",
+        "brand": "Tesla",
+        "model": "Model 3",
+        "price": 35000,
+        "year": 2023,
+        "specifications": {
+            "Engine": "Electric Motor",
+            "Transmission": "Automatic",
+            "Battery Range": "358 miles",
+            "Seats": 5
+        },
+        "stock": 5
+    },
+    {
+        "id": 3,
+        "product_type": "Car",
+        "brand": "Ford",
+        "model": "Mustang",
+        "price": 27000,
+        "year": 2023,
+        "specifications": {
+            "Engine": "2.3L EcoBoost",
+            "Transmission": "Manual",
+            "Fuel Type": "Gasoline",
+            "Seats": 4
+        },
+        "stock": 3
+    },
+    {
+        "id": 4,
+        "product_type": "Car",
+        "brand": "BMW",
+        "model": "3 Series",
+        "price": 41000,
+        "year": 2023,
+        "specifications": {
+            "Engine": "2.0L I4",
+            "Transmission": "Automatic",
+            "Fuel Type": "Gasoline",
+            "Seats": 5
+        },
+        "stock": 1
+    },
+    {
+        "id": 5,
+        "product_type": "Car",
+        "brand": "Audi",
+        "model": "A4",
+        "price": 40000.0,
+        "year": 2023,
+        "specifications": {
+            "Engine": "2.0L Turbo",
+            "Transmission": "Automatic",
+            "Fuel Type": "Gasoline",
+            "Seats": 5
+        },
+        "stock": 3
+    }
+]
